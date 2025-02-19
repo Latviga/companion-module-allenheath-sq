@@ -22,7 +22,7 @@ export enum MuteFeedbackId {
 	MuteFXReturn = 'mute_fx_return',
 	MuteFXSend = 'mute_fx_send',
 	MuteMuteGroup = 'mute_mutegroup',
-	AssignBusAux = 'assign_bus_aux'
+	AssignBusAux = 'assign_bus_aux',
 }
 
 
